@@ -3,4 +3,5 @@
 30
 40
 feature change 1
-feature change 2
+change on master 1
+change on feature branch 1
